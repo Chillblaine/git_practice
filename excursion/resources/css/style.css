@@ -19,6 +19,11 @@ body {
     color: gray;
     font-size: 21px;
 }
+.header--copyrighthead {
+    color: gray;
+    font-size: 21px;
+    text-align: right;
+}
 /*LINKS*/
 
 .link--excurlink {
